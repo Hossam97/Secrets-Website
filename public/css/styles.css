@@ -4,7 +4,6 @@ body {
 }
 
 .centered {
-    padding-top: 200px;
     text-align: center;
 }
 
@@ -12,5 +11,23 @@ body {
   text-align: center;
   font-size: 2rem;
   color: #fff;
-  background-color: #000;
+  background-color: #335c67;
+  border-radius: 10px;
+  font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+.socialMediaBar{
+  height: 0.3em;
+}
+
+.socialMediaBar p{
+  float: left;
+  margin: 1em;
+}
+
+footer{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
 }
