@@ -15,7 +15,7 @@ A website where users can submit their own secrets anonymously after being authe
 ![Registration](https://github.com/Hossam97/Secrets-Website/blob/master/images/Registration.png)
 
 **Submitting a secret:**
-![Secrets submition](https://github.com/Hossam97/Secrets-Website/blob/master/images/Secrets composing.png)
+![Secrets submition](https://github.com/Hossam97/Secrets-Website/blob/master/images/Secrets%20composing.png)
 
 **Secrets page:**
-![Secrets](https://github.com/Hossam97/Secrets-Website/blob/master/images/Secrets%20composing.png)
+![Secrets](https://github.com/Hossam97/Secrets-Website/blob/master/images/Secrets.png)
